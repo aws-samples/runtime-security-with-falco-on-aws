@@ -16,11 +16,11 @@ enableEmoji = true
   # Prefix URL to edit current page. Will display an "Edit this page" button on top right hand corner of every page.
   # Useful to give opportunity to people to create merge request for your doc.
   # See the config.toml file from this documentation site to have an example.
-  editURL = "https://github.com/sysdiglabs/aws-modernization-workshop-with-Sysdig/edit/main/content/"
+  editURL = "https://github.com/aws-samples/runtime-security-with-falco-on-aws/edit/main/content/"
   # Author of the site, will be used in meta information
   author = "Sysdig Training and CNATIVE Teams"
   # Description of the site, will be used in meta information
-  description = "AWS Modernization Workshop with Sysdig"
+  description = "Runtime Security with Falco on AWS"
   # Shows a checkmark for visited pages on the menu
   showVisitedLinks = true
   # Disable search function. It will hide search bar
