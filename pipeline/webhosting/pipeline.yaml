@@ -9,23 +9,23 @@ Parameters:
   ProjectName:
     Type: String
     Description: Project Name
-    Default: sysdig
+    Default: falco
   WebsiteBucket:
     Type: String
     Description: S3 bucket for public assets. ex. Cloudformation templates
-    Default: sysdig.awsworkshop.io 
+    Default: falco.awsworkshop.io 
   CloudFrontDistroId:
     Type: String
     Description: CloudFront distribution ID 
-    Default: E2KZIQ2GVGN1ZN
+    Default: E1USBZCOK5ZI1I
   GitHubRepo:
     Type: String
     Description: repo name
-    Default: aws-modernization-with-sysdig
+    Default: runtime-security-with-falco-on-aws
   FullRepoURL:
     Type: String
     Description: The full url to the repo
-    Default: https://github.com/aws-samples/aws-modernization-with-sysdig.git  
+    Default: https://github.com/aws-samples/runtime-security-with-falco-on-aws.git 
   GitHubOwner:
     Type: String
     Description: GitHub owner name
